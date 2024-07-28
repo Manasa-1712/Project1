@@ -1,0 +1,97 @@
+
+.header{
+    background-color: rgb(218, 181, 181);
+    height: 80px;
+    margin-bottom: 2px; 
+}
+.logo{
+    float: left;
+    margin: 5px;
+   
+}
+.info ul li{
+    float: left;
+    list-style: none;
+    padding: 20px 35px 30px 20px;
+    font-weight: bold;
+}
+.info ul{
+  float: left;
+}
+h5{
+  font-weight: bold;
+  font-size: 16px;
+}
+ 
+.main{ 
+    margin-bottom: 2px;
+    padding: 10px;
+    background-color:rgb(218, 207, 238);
+    height:1250px;
+}
+.copy-container h1{
+  font-size: 50px;
+  text-align: center;
+  color: rgb(177, 67, 67);
+}
+.copy-container h2{
+  font-size: 40px;
+  text-align: center;
+}
+.contents{
+  height: 250px;
+  margin-top: 100px;
+}
+.section-title{
+  border-bottom: 1px solid rgb(219, 203, 203); 
+  font-size: 26px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  
+} 
+.contents-item{
+  float: left;
+  margin-right: 130px;
+  text-align: center;
+}
+.contents-item p{
+   font-size: 20px;
+   margin-top: 25px;
+}
+.copy-container span{
+  color: rgb(57, 57, 213);
+}
+.contact-form{
+   padding-top: 10px;
+}
+input,textarea{
+  width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 20px;
+  border: 1px solid rgb(219, 203, 203); 
+}
+.contact-submit{
+  width: 290px;
+  font-size: 25px;
+  text-align: center;
+ 
+}
+.footer{
+  background-color:  rgb(218, 181, 181);
+  height: 100px;
+  margin-bottom: 5px;
+}
+.logo1{
+float: left;
+margin: 5px;
+}
+.info1 ul li{
+ list-style: none;
+font-weight: bold;
+}
+.info1 ul{
+  float: right;
+  padding: 10px 15px 1px 2px;
+}
